@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi
 
+and bye
 <!--
 **aris-q/aris-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
